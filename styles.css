@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
-input[type="radio"]:nth-child(even) {
-      color: red;
+.input:nth-child(even) {
+      color: rgb(255, 0, 0);
 }
